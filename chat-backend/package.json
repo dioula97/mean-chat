@@ -1,0 +1,17 @@
+{
+  "name": "chat_backend",
+  "version": "0.0.1",
+  "description": "Systeme de chat",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Dia Dioula",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongodb": "^3.2.2",
+    "socket.io": "^2.2.0"
+  }
+}
